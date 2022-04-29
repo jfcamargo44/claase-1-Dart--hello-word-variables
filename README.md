@@ -1,2 +1,1 @@
-A sample command-line application with an entrypoint in `bin/`, library code
-in `lib/`, and example unit test in `test/`.
+la clase esta ubicada en la carpeta /bin en unn archivo .dart, no faltaria menos.
